@@ -75,7 +75,7 @@ export interface Service {
   charge: string;
   desc: string;
   enabled: boolean;
-  _id: string;
+  _id?: string;
   image: Image;
 }
 

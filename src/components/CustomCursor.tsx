@@ -29,7 +29,7 @@ function CustomCursor() {
     return () => {
       window.removeEventListener("mousemove", moveCursor);
     };
-  }, [variant]);
+  }, [variant,cursorX, cursorY]);
 
   const variants: Variants = {
     DEFAULT: {
