@@ -1,0 +1,528 @@
+{
+  "about": {
+    "name": "Nihar Sandhu",
+    "title": "Full Stack Web Developer",
+    "subTitle": "I design responsive UIs, develop full-stack applications, and love solving real-world problems.",
+    "description": "I’m a Computer Science Engineering student at Chitkara University, deeply passionate about building scalable web applications using technologies like React, Next.js, and Node.js. Alongside development, I'm driven by a love for the armed forces, adventure treks, and automobiles. I'm a fast learner, a team player, and someone who always aims to blend creativity with functionality in every project.",
+    "quote": "Discipline. Dreams. Drive.",
+    "exp_year": "2", 
+    "address": "Chandigarh, India", 
+    "some_total": "25",
+    "phoneNumber": "+91-7888878550",
+    "contactEmail": "niharsandhu25@gmail.com",
+    "avatar": {
+      "public_id": "portfolio3/nihar-avatar",
+      "url": "/WhatsApp Image 2024-11-19 at 00.54.32.jpeg"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "portfolio3/1713996156944-1hro1b.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713996156944-1hro1b.webp"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "portfolio3",
+  "email": "niharsandhu25@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "Chitkara University",
+      "summary": "Pursuing Bachelor of Engineering in Computer Science with a focus on full stack web development.",
+      "sequence": 1,
+      "startDate": "2023-08-01T00:00:00.000Z",
+      "endDate": "2027-06-01T00:00:00.000Z",
+      "jobTitle": "B.E. in Computer Science",
+      "jobLocation": "Rajpura, Punjab",
+      "bulletPoints": [
+        "Learning Data Structures, Web Technologies, and Software Engineering.",
+        "Built multiple full stack projects using React, Next.js, and Node.js.",
+        "Participating in coding contests, hackathons, and development communities."
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "edu-be"
+    },
+    {
+      "company_name": "Govt. Senior Secondary School, Sector 19",
+      "summary": "Completed higher secondary education with a focus on Physics, Chemistry, and Mathematics.",
+      "sequence": 2,
+      "startDate": "2021-04-01T00:00:00.000Z",
+      "endDate": "2023-03-31T00:00:00.000Z",
+      "jobTitle": "12th (Non-Medical)",
+      "jobLocation": "Chandigarh, India",
+      "bulletPoints": [
+        "Secured strong academic results in PCM subjects.",
+        "Actively participated in school-level science and math competitions.",
+        "Laid the foundation for computer science and engineering concepts."
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "edu-12"
+    }
+  ]
+  ,
+  "skills": [
+    {
+      "enabled": true,
+      "name": "C++",
+      "sequence": 17,
+      "percentage": 87,
+      "image": {
+        "public_id": "1706288734207-4rlz3m",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
+        "_id": "65b3e661b48589dfcae187f8"
+      },
+      "_id": "65b3e661b48589dfcae187f7"
+    },
+    {
+      "enabled": true,
+      "name": "Java",
+      "sequence": 15,
+      "percentage": 85,
+      "image": {
+        "public_id": "1706288715800-1q2w3e",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288715800-1q2w3e",
+        "_id": "65b3e645b48589dfcae187a5"
+      },
+      "_id": "65b3e645b48589dfcae187a4"
+    },
+    {
+      "enabled": true,
+      "name": "Python",
+      "sequence": 16,
+      "percentage": 86,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+        "_id": "65b3e645b48589dfcae187a3"
+      },
+      "_id": "65b3e645b48589dfcae187a2"
+    },
+    {
+      "enabled": true,
+      "name": "Express.js",
+      "sequence": 8,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706287122050-2q1j3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287122050-2q1j3",
+        "_id": "65b3e01ab48589dfcae1826c"
+      },
+      "_id": "65b3e01ab48589dfcae1826b"
+    },
+    {
+      "enabled": true,
+      "name": "TypeScript",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706287104739-pm8en",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+        "_id": "65b3e001b48589dfcae18246"
+      },
+      "_id": "65b3e001b48589dfcae18245"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 7,
+      "percentage": 92,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
+        "_id": "65b3df8fb48589dfcae18205"
+      },
+      "_id": "65b3df8fb48589dfcae18204"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 13,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
+        "_id": "65b3df76b48589dfcae181c6"
+      },
+      "_id": "65b3df76b48589dfcae181c5"
+    },
+    {
+      "enabled": true,
+      "name": "GSAP",
+      "sequence": 14,
+      "percentage": 75,
+      "image": {
+        "public_id": "1706286941980-2q1j3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286941980-2q1j3",
+        "_id": "65b3df5eb48589dfcae181e7"
+      },
+      "_id": "65b3df5eb48589dfcae181e6"
+    },
+    {
+      "enabled": true,
+      "name": "Javascript",
+      "sequence": 3,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706288679775-y4qwn3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+        "_id": "65b3e628b48589dfcae18750"
+      },
+      "_id": "65b3df24b48589dfcae18114"
+    },
+    {
+      "enabled": true,
+      "name": "Git",
+      "sequence": 12,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286842731-r0eyn",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae180de"
+      },
+      "_id": "65b3defbb48589dfcae180dd"
+    },
+    {
+      "enabled": true,
+      "name": "Github",
+      "sequence": 11,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286821409-21cuqs",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+        "_id": "65b3dee5b48589dfcae180a9"
+      },
+      "_id": "65b3dee5b48589dfcae180a8"
+    },
+    {
+      "enabled": true,
+      "name": "Sass",
+      "sequence": 10,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286780392-39i48h",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286780392-39i48h",
+        "_id": "65b3debcb48589dfcae18076"
+      },
+      "_id": "65b3debcb48589dfcae18075"
+    },
+     {
+      "enabled": true,
+      "name": "Cloudinary",
+      "sequence": 9,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286741234-1q2w3e",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286741234-1q2w3e",
+        "_id": "65b3de8fb48589dfcae1803c"
+      },
+      "_id": "65b3de8fb48589dfcae1803b"
+    },
+    {
+      "enabled": true,
+      "name": "Next.js",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286682511-rgp96r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+        "_id": "65b3de5bb48589dfcae17fe9"
+      },
+      "_id": "65b3de5bb48589dfcae17fe8"
+    },
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 5,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+        "_id": "65b3f27aeb20546ae6d49e76"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Tailwind",
+      "sequence": 4,
+      "percentage": 99,
+      "image": {
+        "public_id": "1706286616701-2jka3q",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+        "_id": "65b3de19b48589dfcae17f95"
+      },
+      "_id": "65b3de19b48589dfcae17f94"
+    },
+    {
+      "enabled": true,
+      "name": "CSS",
+      "sequence": 2,
+      "percentage": 97,
+      "image": {
+        "public_id": "1706286273084-romle",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+      },
+      "_id": "65b3dcc1b48589dfcae17e4d"
+    },
+    {
+      "name": "HTML",
+      "sequence": 1,
+      "percentage": 98,
+      "image": {
+        "public_id": "1706286058630-v3ax0a",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+      },
+      "_id": "65b3dbeba5c8d2db7b6164bc",
+      "enabled": true
+    }
+  ],
+  "youtube": [
+    {
+      "url": "",
+      "title": "Sample Video",
+      "sequence": 1,
+      "image": null,
+      "embedId": "eitWM4gNZoM",
+      "enabled": true,
+      "_id": "65f482e5d689e5777d9457ae"
+    }
+  ],
+  "projects": [
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Patient Bridge",
+      "sequence": 14,
+      "image": {
+        "public_id": "projects/patient-bridge",
+        "url": "/Screenshot 2025-05-15 at 1.49.07 PM.png"
+      },
+      "videoUrl": "/videos/patient-bridge-preview.mp4",
+      "description": "Patient Bridge is an online medical assistance platform where users can book appointments, call ambulances, handle emergencies, order medicines, and read medical blogs. It streamlines healthcare access with a user-friendly interface and real-time functionalities.",
+      "techStack": ["Next.js", "React", "Tailwind CSS", "Redux Toolkit", "Node.js", "Express", "MongoDB"],
+      "_id": "65b3d9c8d017f6b49c778ca7",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Skill Sync",
+      "sequence": 15,
+      "image": {
+        "public_id": "1706285468702-igx05q",
+        "url": "/ss.png"
+      },
+      "videoUrl": "/videos/patient-bridge-preview.mp4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d99dd017f6b49c778c86",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Relief Chain",
+      "sequence": 13,
+      "image": {
+        "public_id": "1706285431821-3lfg2r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285431821-3lfg2r"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d978d017f6b49c778c67",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Orion Academy",
+      "sequence": 12,
+      "image": {
+        "public_id": "1706285416017-wra7swm",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285416017-wra7swm"
+      },
+      "videoUrl": "/videos/patient-bridge-preview.mp4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d969d017f6b49c778c4a",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Bits and Bytes",
+      "sequence": 11,
+      "image": {
+        "public_id": "1706285405228-98liol",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285405228-98liol"
+      },
+      "videoUrl": "/videos/patient-bridge-preview.mp4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d95dd017f6b49c778c2f",
+      "enabled": true
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/tehseen.01/",
+      "image": {
+        "public_id": "1708718250873-3038n7.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+      },
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "http://www.linkedin.com/in/tehseen01",
+      "image": {
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+      },
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Twitter",
+      "url": "https://x.com/tehseen_type",
+      "image": {
+        "public_id": "1708718328750-d4jsq.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+      },
+      "_id": "65b3e47cb48589dfcae185bd"
+    },
+    {
+      "enabled": true,
+      "platform": "Facebook",
+      "url": "#",
+      "image": {
+        "public_id": "1708718346601-xldm.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+      },
+      "_id": "65b3e43cb48589dfcae1856c"
+    }
+  ],
+  "services": [
+    {
+      "name": "Static Website",
+      "charge": "$100",
+      "desc": "Fast, responsive, and SEO-friendly static websites tailored for your brand or portfolio.",
+      "enabled": true,
+      "image": {
+        "public_id": "services/static-site",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/services/static-site.jpg"
+      }
+    },
+    {
+      "name": "Full Stack Web App",
+      "charge": "$500",
+      "desc": "Scalable and robust full stack applications using React, Next.js, Node.js, and MongoDB.",
+      "enabled": true,
+      "image": {
+        "public_id": "services/fullstack",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/services/fullstack.jpg"
+      }
+    },
+    {
+      "name": "Backend API & Auth",
+      "charge": "$250",
+      "desc": "Secure backend development with RESTful APIs, authentication, and third-party integrations.",
+      "enabled": true,
+      "image": {
+        "public_id": "services/backend",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/services/backend.jpg"
+      }
+    },
+    {
+      "name": "Payment Gateway Integration",
+      "charge": "$200",
+      "desc": "Integrate secure and seamless payments via Stripe, Razorpay, or PayPal into your applications.",
+      "enabled": true,
+      "image": {
+        "public_id": "services/payment",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/services/payment.jpg"
+      }
+    },
+    {
+      "name": "Debugging & Optimization",
+      "charge": "$149",
+      "desc": "Fix bugs, resolve crashes, and optimize performance for faster and more reliable apps.",
+      "enabled": true,
+      "image": {
+        "public_id": "services/debugging",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/services/debugging.jpg"
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "portfolio3/1710357726628-c4dr18.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+      },
+      "name": "Samantha Wu",
+      "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+      "position": "Software Engineer",
+      "enabled": true,
+      "_id": "65f1fcdf0556c3f887e9d74c"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357705657-aimydg.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357705657-aimydg.png"
+      },
+      "name": "David Rodriguez",
+      "review": "Throughout our project, John demonstrated exceptional technical skills and a strong work ethic. He consistently met deadlines and produced high-quality code that exceeded our expectations. His proactive approach to problem-solving and effective communication made him a valuable member of our team\n",
+      "position": "Project Manager",
+      "enabled": true,
+      "_id": "65f1fcca0556c3f887e9d6e8"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357683739-tqeav.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357683739-tqeav.png"
+      },
+      "name": " Emily Chen",
+      "review": "I had the pleasure of collaborating with John on a complex web application project. His ability to translate design concepts into functional, user-friendly features was impressive. John consistently delivered high-quality work and was always open to feedback. I look forward to working with him again in the future.\n\n",
+      "position": " Emily Chen",
+      "enabled": true,
+      "_id": "65f1fcb30556c3f887e9d662"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357647030-pi5cis.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357647030-pi5cis.png"
+      },
+      "name": " Michael Lee",
+      "review": "John is a skilled developer with a keen eye for detail. He played a crucial role in our team, consistently producing clean, efficient code. His collaborative nature and willingness to take on new challenges make him an invaluable asset to any project.\"",
+      "position": " Lead Developer",
+      "enabled": true,
+      "_id": "65f1fc8f0556c3f887e9d4e5"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Sarah Johnson",
+      "review": "Working with John was an absolute delight. Their professionalism and technical prowess were evident from day one. He consistently delivered top-notch code and went above and beyond to ensure the success of our project. I highly recommend him for any development endeavor",
+      "position": " Product Manager",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31d"
+    }
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}
